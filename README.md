@@ -1,4 +1,6 @@
-### Hi there 👋
+# haiii :3
+
+![osu](https://osu-sig.vercel.app/card?user=softie&mode=std&lang=en&animation=true&hue=255&skills=true)
 
 <!--
 **transfem/transfem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
